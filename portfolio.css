@@ -59,10 +59,10 @@
 */
 @media only screen and (max-width: 500px) {
 
-    text-size: small;
+
     img { 
-       width: 70%;
-       height: 70%;
+       width: 40%;
+       height: 40%;
 
     }
 
@@ -86,8 +86,19 @@
       height: 20%;
     }
 
-    body{
-      color: red;
+    h2 {
+      font-size: 20px;
+      font-size: 2vw;
+    }
+
+    p {
+    font-size: 16px; 
+    font-size: 2vw;
+    }
+
+    li {
+      font-size: 20px;
+      font-size: 2vw;
     }
 
 }
