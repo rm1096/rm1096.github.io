@@ -61,9 +61,13 @@
 
 
     img { 
-       width: 40%;
-       height: 40%;
+       width: 60%;
+       height: 60%;
 
+    }
+
+    .projWrap{
+      margin-left:auto;
     }
 
     .videoWrap{
@@ -100,6 +104,7 @@
       font-size: 20px;
       font-size: 2vw;
     }
+
 
 }
 
@@ -142,6 +147,13 @@ p{
 
 }
 */
+.projWrap{
+ height:600px;
+ width:600px;
+margin-left:auto;
+margin-right:auto;
+overflow:auto;
+}
 
 #footer{
 	
